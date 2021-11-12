@@ -1,2 +1,2 @@
 # assignment4
-CPSC 240
+This is a test project
